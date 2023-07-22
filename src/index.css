@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.task-board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #f2f2f2;
+  border-radius: 0.5rem;
+}
+
+.task-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.}
